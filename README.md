@@ -54,6 +54,5 @@ printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
  
 
 
-
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
